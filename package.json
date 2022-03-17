@@ -1,8 +1,8 @@
 {
+  "homepage": "https://sunialshrestha.github.io",
   "name": "proshop",
   "version": "1.0.0",
   "description": "MERN Shopping Cart App",
-  "homepage": "https://sunialshrestha.github.io",
   "main": "server.js",
   "type": "module",
   "scripts": {
@@ -34,6 +34,7 @@
     "express": "^4.17.1",
     "express-async-handler": "^1.1.4",
     "express-fileupload": "^1.2.1",
+    "gh-pages": "^3.2.3",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.13.3",
     "morgan": "^1.10.0",
